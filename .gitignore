@@ -1,0 +1,5 @@
+.DS_Store
+*.sublime-*
+*.pem
+info.md
+*.pxm
